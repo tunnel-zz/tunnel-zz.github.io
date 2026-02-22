@@ -43,7 +43,7 @@ My research interests include the design and fabrication of MEMS/NEMS resonant d
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">J. Microelectromech. Syst. 2025</div><img src='images/jmems2025.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Yuhao Xiao`, Jinzhao Han, Bowen Li and Guoqiang Wu. Turnover temperature point adjustment in mechanically coupled single-crystal silicon MEMS resonators. *J. Microelectromech. Syst.*, 2025, 34(2): 134-143. (JCR:Q2; IF:3.1)  
+-	<strong>Yuhao Xiao</strong>, Jinzhao Han, Bowen Li and Guoqiang Wu. Turnover temperature point adjustment in mechanically coupled single-crystal silicon MEMS resonators. *J. Microelectromech. Syst.*, 2025, 34(2): 134-143. (JCR:Q2; IF:3.1)  
 [[Page]](https://doi.org/10.1109/JMEMS.2024.3524384) 
 
 </div>
@@ -52,13 +52,13 @@ My research interests include the design and fabrication of MEMS/NEMS resonant d
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sens. Actuators Phys. 2024</div><img src='images/sna2024.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	`Yuhao Xiao`, Kewen Zhu, Jinzhao Han, Fang Dong, Chengliang Sun, Sheng Liu and Guoqiang Wu. An oven controlled piezoelectric MEMS dual-resonator platform with frequency stability of ±100 ppb over industrial temperature range. *Sens. Actuators A, Phys.*, 2024, 380: 116019. (JCR:Q1; IF:4.9)  
+-	<strong>Yuhao Xiao</strong>, Kewen Zhu, Jinzhao Han, Fang Dong, Chengliang Sun, Sheng Liu and Guoqiang Wu. An oven controlled piezoelectric MEMS dual-resonator platform with frequency stability of ±100 ppb over industrial temperature range. *Sens. Actuators A, Phys.*, 2024, 380: 116019. (JCR:Q1; IF:4.9)  
 [[Page]](https://doi.org/10.1016/j.sna.2024.116019) 
 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Chip 2024</div><img src='images/ijaem2020.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Chip 2024</div><img src='images/chip2024.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	<strong>Yuhao Xiao</strong>, Kewen Zhu, Jinzhao Han, Sheng Liu and Guoqiang Wu. Q-enhancement of piezoelectric micro-oven-controlled MEMS resonators using honeycomb lattice phononic crystals. *Chip*, 2024, 3(4): 100108. (JCR:Q1; IF:7.1)  
@@ -67,7 +67,7 @@ My research interests include the design and fabrication of MEMS/NEMS resonant d
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Electron Device Lett. 2023</div><img src='images/ijaem2020.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Electron Device Lett. 2023</div><img src='images/edl2023.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	<strong>Yuhao Xiao</strong>, Jinzhao Han, Kewen Zhu and Guoqiang Wu. A micro-oven controlled dual-mode piezoelectric MEMS resonator with ±190 ppb stability over −40 to 105 °C temperature range. *IEEE Electron Device Lett.*, 2023, 44(8): 1340-1343. (JCR:Q2; IF:4.5)  
@@ -76,7 +76,7 @@ My research interests include the design and fabrication of MEMS/NEMS resonant d
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Appl. Phys. Lett. 2023</div><img src='images/ijaem2020.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Appl. Phys. Lett. 2023</div><img src='images/apl2023.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	<strong>Yuhao Xiao</strong>, Jinzhao Han, Kewen Zhu and Guoqiang Wu. A piezoelectric mechanically coupled Lamé mode resonator with ultra-high Q. *Appl. Phys. Lett.*, 2023, 122 (11): 114101. (JCR:Q2; IF:3.6)  
