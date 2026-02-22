@@ -6,6 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+baseURL: "https://www.yuhaoxiao.top/"
 title                    : "肖宇豪(XiaoYuhao)"
 description              : "MEMS resonator"
 repository               : "tunnel-zz/tunnel-zz.github.io"
