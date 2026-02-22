@@ -24,7 +24,7 @@ author:
   name             : "肖宇豪(XiaoYuhao)"
   avatar           : "images/xiaoyuhao.png"
   bio              : "Wuhan University"
-  location         : "湖北 武汉"
+  location         : 
   employer         : "Wuhan University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=rWf26_sAAAAJ&hl=en&oi=ao"
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "tunnel-zz"
+  github           : 
   google_plus      :
   keybase          :
   instagram        :
