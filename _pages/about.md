@@ -17,8 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently working on high-performance MEMS/NEMS resonators, with research spanning design theory, microfabrication processes, and nonlinear dynamics. If you are interested in academic collaboration or research discussions, please feel free to contact me at xiaoyuhao@whu.edu.cn.
-I graduated from School of Power and Mechanical Engineering, Wuhan University (武汉大学机械与动力学院) with a bachelor's degree and from the Institute of Technological Sciences, Wuhan University (武汉大学工业科学研究院) with a PH.D degree, advised by Wu Guoqiang (吴国强).
+I am currently working on high-performance MEMS/NEMS resonators, with research spanning design theory, microfabrication processes, and nonlinear dynamics. If you are interested in academic collaboration or research discussions, please feel free to contact me at <a href="mailto:xiaoyuhao@whu.edu.cn">xiaoyuhao@whu.edu.cn</a>.
+</div>
+I graduated from School of Power and Mechanical Engineering, Wuhan University (武汉大学机械与动力学院) with a bachelor's degree and from the Institute of Technological Sciences, Wuhan University (武汉大学工业科学研究院) with a PH.D degree, advised by <a href="https://ic.whu.edu.cn/info/1521/3291.htm">Wu Guoqiang (吴国强)</a>.
 My research interests include the design and fabrication of MEMS/NEMS resonant devices, as well as the fundamental dynamics and performance optimization of micro- and nano-scale mechanical systems.
  <a href='https://scholar.google.com/citations?user=rWf26_sAAAAJ&hl=en&oi=ao'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>。
 
