@@ -51,8 +51,7 @@ My research interests include the design and fabrication of MEMS/NEMS resonant d
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sens. Actuators Phys. 2024</div><img src='images/sna2024.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	<strong>Yuhao Xiao</strong>, Kewen Zhu, Jinzhao Han, Fang Dong, Chengliang Sun, Sheng Liu and Guoqiang Wu. An oven controlled piezoelectric MEMS dual-resonator platform with frequency stability of ±100 ppb over industrial temperature range. *Sens. Actuators A, Phys.*, 2024, 380: 116019. (JCR:Q1; IF:4.9)  
-[[Page]](https://doi.org/10.1016/j.sna.2024.116019) 
+-	<strong>Yuhao Xiao</strong>, Kewen Zhu, Jinzhao Han, Fang Dong, Chengliang Sun, Sheng Liu and Guoqiang Wu. <a href="https://doi.org/10.1016/j.sna.2024.116019">An oven controlled piezoelectric MEMS dual-resonator platform with frequency stability of ±100 ppb over industrial temperature range</a>. *Sens. Actuators A, Phys.*, 2024, 380: 116019. (JCR:Q1; IF:4.9)  
 
 </div>
 </div>
@@ -60,8 +59,7 @@ My research interests include the design and fabrication of MEMS/NEMS resonant d
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Chip 2024</div><img src='images/chip2024.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	<strong>Yuhao Xiao</strong>, Kewen Zhu, Jinzhao Han, Sheng Liu and Guoqiang Wu. Q-enhancement of piezoelectric micro-oven-controlled MEMS resonators using honeycomb lattice phononic crystals. *Chip*, 2024, 3(4): 100108. (JCR:Q1; IF:7.1)  
-[[Page]](https://doi.org/10.1016/j.chip.2024.100108) 
+-	<strong>Yuhao Xiao</strong>, Kewen Zhu, Jinzhao Han, Sheng Liu and Guoqiang Wu. <a href="https://doi.org/10.1016/j.chip.2024.100108">Q-enhancement of piezoelectric micro-oven-controlled MEMS resonators using honeycomb lattice phononic crystals</a>. *Chip*, 2024, 3(4): 100108. (JCR:Q1; IF:7.1)  
 
 </div>
 </div>
@@ -69,8 +67,8 @@ My research interests include the design and fabrication of MEMS/NEMS resonant d
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Electron Device Lett. 2023</div><img src='images/edl2023.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	<strong>Yuhao Xiao</strong>, Jinzhao Han, Kewen Zhu and Guoqiang Wu. A micro-oven controlled dual-mode piezoelectric MEMS resonator with ±190 ppb stability over −40 to 105 °C temperature range. *IEEE Electron Device Lett.*, 2023, 44(8): 1340-1343. (JCR:Q2; IF:4.5)  
-[[Page]](https://doi.org/10.1109/LED.2023.3285622) 
+-	<strong>Yuhao Xiao</strong>, Jinzhao Han, Kewen Zhu and Guoqiang Wu. <a href="https://doi.org/10.1109/LED.2023.3285622">A micro-oven controlled dual-mode piezoelectric MEMS resonator with ±190 ppb stability over −40 to 105 °C temperature range</a>. *IEEE Electron Device Lett.*, 2023, 44(8): 1340-1343. (JCR:Q2; IF:4.5)  
+
 
 </div>
 </div>
@@ -78,18 +76,49 @@ My research interests include the design and fabrication of MEMS/NEMS resonant d
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Appl. Phys. Lett. 2023</div><img src='images/apl2023.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	<strong>Yuhao Xiao</strong>, Jinzhao Han, Kewen Zhu and Guoqiang Wu. A piezoelectric mechanically coupled Lamé mode resonator with ultra-high Q. *Appl. Phys. Lett.*, 2023, 122 (11): 114101. (JCR:Q2; IF:3.6)  
-[[Page]](https://doi.org/10.1063/5.0141778) 
+-	<strong>Yuhao Xiao</strong>, Jinzhao Han, Kewen Zhu and Guoqiang Wu. <a href="https://doi.org/10.1063/5.0141778">A piezoelectric mechanically coupled Lamé mode resonator with ultra-high Q</a>. *Appl. Phys. Lett.*, 2023, 122 (11): 114101. (JCR:Q2; IF:3.6)  
 
 </div>
 </div>
+ 
+-	Bowen Li#, <strong>Yuhao Xiao#</strong>, Longlong Li, Zhaomin Hua and Guoqiang Wu. <a href="https://doi.org/10.1109/JMEMS.2025.3571519">A high-performance mechanically coupled quadruple breathing mode ring resonator. *J. Microelectromech. Syst.*, 2025, 34(4): 365-367. (JCR:Q2; IF:3.1) 
 
--	<strong>Yuhao Xiao</strong>, Jinzhao Han, Kewen Zhu and Guoqiang Wu. A piezoelectric mechanically coupled Lamé mode resonator with ultra-high Q. *Appl. Phys. Lett.*, 2023, 122 (11): 114101. (JCR:Q2; IF:3.6)  
-[[Page]](https://doi.org/10.1063/5.0141778) 
+<p>- Zhaomin Hua, <strong>Yuhao Xiao</strong>, Kewen Zhu, Bowen Li, Longlong Li and Guoqiang Wu. <a href="https://doi.org/10.1109/JMEMS.2025.3640279">High-Dynamic-Range Bulk-Mode Piezoelectric MEMS Resonators via Crystal Orientation Tuning for Duffing Nonlinearity Suppression. <em>J. Microelectromech. Syst.</em>, 2026, 35(1): 13-15. (JCR:Q2; IF:3.1) </a></p>
+
+<p>- Wen Chen, Longlong Li, Zhaomin Hua, <strong>Yuhao Xiao</strong> and Guoqiang Wu. <a href="https://doi.org/10.1109/TED.2026.3661950">Machine Learning and Genetic Algorithm-Assisted Design of MEMS Resonator With Multifold Beam Tether for Anchor Loss Reduction. <em>IEEE Trans. Electron Devices</em>, 2026: 1-7. (JCR:Q2; IF:3.2)</a></p>
+
+<p>- Gongqi Meng, <strong>Yuhao Xiao</strong>, Sheng Liu and Guoqiang Wu. <a href="https://doi.org/10.1109/JMEMS.2026.3652347">Design and Characterization of Micro-Oven-Controlled MEMS Resonators With Two-Dimensional Honeycomb-Lattice Phononic Crystals for Anchor Loss Suppression. <em>J. Microelectromech. Syst.</em>, 2026: 1-8. (JCR:Q2; IF:3.1) </a></p>
+
+<p>- Longlong Li, <strong>Yuhao Xiao</strong> and Guoqiang Wu. <a href="https://doi.org/10.1109/JMEMS.2025.3605143">Q Enhancement and TCF Reduction for Piezoelectric MEMS Resonators via Mechanical Coupling. <em>J. Microelectromech. Syst.</em>, 2025, 34(6): 777-783. (JCR:Q2; IF:3.1) </a></p>
+
+<p>- Kewen Zhu, <strong>Yuhao Xiao</strong>, Wen Chen and Guoqiang Wu. <a href="https://doi.org/10.1016/j.mejo.2025.106588">Narrowband ladder-type MEMS filter based on high-Q thin-film piezoelectric-on-silicon MEMS resonators. <em>Microelectronics Journal</em>, 2025, 157: 106588. (JCR:Q3; IF:2.3)</a></p>
+
+<p>- Wen Chen, <strong>Yuhao Xiao</strong>, Kewen Zhu, Longlong Li and Guoqiang Wu. <a href="https://doi.org/10.1109/TED.2025.3559898">Machine-Learning-Assisted Anchor Loss Reduction of MEMS Resonator With One-Dimensional Phononic Crystal Tether. <em>IEEE Trans. Electron Devices</em>, 2025, 72(6): 3127-3132. (JCR:Q2; IF:3.2)</a></p>
+
+<p>- Can Li, <strong>Yuhao Xiao</strong>, W. You and Guoqiang Wu. <a href="https://doi.org/10.1016/j.mee.2024.112241">Dependence of frequency-temperature stability on support tethers in dual-beam piezoresistive sensing MEMS resonators. <em>Microelectronic Engineering</em>, 2024, 293. (JCR:Q2; IF:3.1)</a></p>
+
+<p>- Zhaoyang Lu, Longlong Li, Wen Chen, <strong>Yuhao Xiao</strong>, W. You and Guoqiang Wu. <a href="https://doi.org/10.1016/j.mee.2024.112144">A ScAlN-based piezoelectric breathing mode dual-ring resonator with high temperature stability. <em>Microelectronic Engineering</em>, 2024, 287. (JCR:Q2; IF:3.1)</a></p>
+
+<p>- Zekai Wang, Wenjuan Liu, Bohao Hu, <strong>Yuhao Xiao</strong>, Chaoxiang Yang, Liangyu Lu, Yao Cai, Yan Liu and Chengliang Sun. <a href="https://doi.org/10.1109/JMEMS.2023.3323954">Theoretical Analysis and Verification on ScAlN-Based Piezoelectric Micromachined Ultrasonic Transducers With DC Bias. <em>J. Microelectromech. Syst.</em>, 2024, 33(1): 54-65. (JCR:Q2; IF:3.1) </a></p>
+
+<p>- Kewen Zhu, <strong>Yuhao Xiao</strong>, Jinzhao Han and Guoqiang Wu. <a href="https://doi.org/10.1109/JMEMS.2023.3345286">A Mechanically Coupled Piezoelectric MEMS Filter With Tiny Percent Bandwidth and Low Insertion Loss. <em>J. Microelectromech. Syst.</em>, 2024, 33(2): 143-150. (JCR:Q2; IF:3.1)</a></p>
+
+<p>- Jinzhao Han, <strong>Yuhao Xiao</strong>, Wen Chen, Kewen Zhu and Guoqiang Wu. <a href="https://doi.org/10.1109/JMEMS.2023.3260079">Mechanically Coupled Single-Crystal Silicon MEMS Resonators for TCF Manipulation. <em>J. Microelectromech. Syst.</em>, 2023, 32(3): 271-278. (JCR:Q2; IF:3.1) </a></p>
+
+<p>- Wen Chen, Wenhan Jia, <strong>Yuhao Xiao</strong> and Guoqiang Wu. <a href="https://doi.org/10.1109/JSEN.2023.3282409">Anchor Loss Reduction for Square-Extensional Mode MEMS Resonator Using Tethers With Auxiliary Structures. <em>IEEE Sensors Journal</em>, 2023, 23(14): 15454-15460. (JCR:Q1; IF:4.5)</a></p>
+
+<p>- Wenhan Jia, Wen Chen, <strong>Yuhao Xiao</strong>, Zhongye Wu and Guoqiang Wu. <a href="https://doi.org/10.1109/TED.2022.3159287">A Micro-Oven-Controlled Dual-Mode Piezoelectric MEMS Resonator With ±400 PPB Stability Over -40 to 80 °C Temperature Range. <em>IEEE Trans. Electron Devices</em>, 2022, 69(5): 2597-2603. (JCR:Q2; IF:3.2)</a></p>
+
+
+<p>- Wen Chen, Wenhan Jia, <strong>Yuhao Xiao</strong> and Guoqiang Wu. <a href="https://doi.org/10.1109/JMEMS.2022.3159995">Design, Modeling and Characterization of High-Performance Bulk-Mode Piezoelectric MEMS Resonators. <em>J. Microelectromech. Syst.</em>, 2022, 31(3): 318-327. (JCR:Q2; IF:3.1) </a></p>
+
+- Wen Chen, Wenhan Jia, <strong>Yuhao Xiao</strong>, Zhihong Feng and Guoqiang Wu. <a href="https://doi.org/10.1109/LED.2021.3094319">A Temperature-Stable and Low Impedance Piezoelectric MEMS Resonator for Drop-in Replacement of Quartz Crystals. <em>IEEE Electron Device Lett.</em>, 2021, 42(9): 1307-1310. (JCR:Q2; IF:4.5)</a>
+
+- Jinzhao Han, <strong>Yuhao Xiao</strong>, Wen Chen, Wenhan Jia, Kewen Zhu and Guoqiang Wu. <a href="https://doi.org/10.1109/JMEMS.2022.3189202">Temperature Compensated Bulk-Mode Capacitive MEMS Resonators With ±16 ppm Temperature Stability Over Industrial Temperature Ranges. <em>J. Microelectromech. Syst.</em>, 2022, 31(5): 715-722. (JCR:Q2; IF:3.1)</a>
 
 ### Conference
--	<strong>Yuhao Xiao</strong>, Wen Chen, Jinzhao Han, Kewen Zhu, and Guoqiang Wu. A piezoelectric width-flexural mode MEMS resonator with high quality factor and low motional resistance. *2023 22nd International Conference on Solid-State Sensors, Actuators and Microsystems (Transducers)*, IEEE, 2023: 1825-1828.
--	Linhai Huang, Zhihong Feng, <strong>Yuhao Xiao</strong>, Fengpei Sun and Jinghui Xu. High-Q and low-motional impedance piezoelectric MEMS resonator through mechanical mode coupling. *2023 IEEE 36th International Conference on Micro Electro Mechanical Systems (MEMS)*, IEEE, 2023: 1159-1162.
+-	<strong>Yuhao Xiao</strong>, Wen Chen, Jinzhao Han, Kewen Zhu, and Guoqiang Wu. <a href="https://ieeexplore.ieee.org/abstract/document/10516907">A piezoelectric width-flexural mode MEMS resonator with high quality factor and low motional resistance</a>. *2023 22nd International Conference on Solid-State Sensors, Actuators and Microsystems (Transducers)*, IEEE, 2023: 1825-1828.
+-	Linhai Huang, Zhihong Feng, <strong>Yuhao Xiao</strong>, Fengpei Sun and Jinghui Xu. <a href="https://doi.org/10.1109/MEMS49605.2023.10052210">High-Q and low-motional impedance piezoelectric MEMS resonator through mechanical mode coupling</a>. *2023 IEEE 36th International Conference on Micro Electro Mechanical Systems (MEMS)*, IEEE, 2023: 1159-1162.
 
 ### Patents
 ---
