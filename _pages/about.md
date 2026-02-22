@@ -40,7 +40,7 @@ My research interests include the design and fabrication of MEMS/NEMS resonant d
 
 ### Journal
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">J. Microelectromech. Syst. 2025</div><img src='images/jmems2025.svg' alt="sym" width="50%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">J. Microelectromech. Syst. 2025</div><img src='images/jmems2025.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Yuhao Xiao`, Jinzhao Han, Bowen Li and Guoqiang Wu. Turnover temperature point adjustment in mechanically coupled single-crystal silicon MEMS resonators. *J. Microelectromech. Syst.*, 2025, 34(2): 134-143. (JCR:Q2; IF:3.1)  
