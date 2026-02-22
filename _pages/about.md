@@ -49,7 +49,7 @@ My research interests include the design and fabrication of MEMS/NEMS resonant d
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sens. Actuators Phys. 2024</div><img src='images/sna2021.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sens. Actuators Phys. 2024</div><img src='images/sna2024.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	`Yuhao Xiao`, Kewen Zhu, Jinzhao Han, Fang Dong, Chengliang Sun, Sheng Liu and Guoqiang Wu. An oven controlled piezoelectric MEMS dual-resonator platform with frequency stability of ±100 ppb over industrial temperature range. *Sens. Actuators A, Phys.*, 2024, 380: 116019. (JCR:Q1; IF:4.9)  
