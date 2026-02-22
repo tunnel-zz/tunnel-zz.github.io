@@ -29,9 +29,10 @@ My research interests include the design and fabrication of MEMS/NEMS resonant d
 <span class='anchor' id='-xl'></span>
 
 # 🎓 Education
-- *2016.06 - 2022.12*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 华中科技大学 机械科学与工程学院, 湖北武汉, 推免直博 
-- *2012.09 - 2016.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 四川大学 制造科学与工程学院, 四川成都, 本科
- 
+- *2022.09 - 2025.06*, <a href="https://www.whu.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> Wuhan University, China, Ph.D. in Physical Electronics  
+- *2020.09 - 2022.09*, <a href="https://www.whu.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> Wuhan University, China, M.Eng. in Mechanical Engineering (part of a continuous academic project involves postgraduate and doctoral study)  
+- *2016.09 - 2020.09*, <a href="https://www.whu.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> Wuhan University, China, B.Eng. in Mechanical Engineering  
+
 <span class='anchor' id='-lwzl'></span>
 
 # 📝 Publications
