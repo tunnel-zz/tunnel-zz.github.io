@@ -43,8 +43,7 @@ My research interests include the design and fabrication of MEMS/NEMS resonant d
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">J. Microelectromech. Syst. 2025</div><img src='images/jmems2025.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
--	<strong>Yuhao Xiao</strong>, Jinzhao Han, Bowen Li and Guoqiang Wu. Turnover temperature point adjustment in mechanically coupled single-crystal silicon MEMS resonators. *J. Microelectromech. Syst.*, 2025, 34(2): 134-143. (JCR:Q2; IF:3.1)  
-[[Page]](https://doi.org/10.1109/JMEMS.2024.3524384) 
+-	<strong>Yuhao Xiao</strong>, Jinzhao Han, Bowen Li and Guoqiang Wu. <a href="https://doi.org/10.1109/JMEMS.2024.3524384">Turnover temperature point adjustment in mechanically coupled single-crystal silicon MEMS resonators</a>. *J. Microelectromech. Syst.*, 2025, 34(2): 134-143. (JCR:Q2; IF:3.1)  
 
 </div>
 </div>
@@ -90,7 +89,7 @@ My research interests include the design and fabrication of MEMS/NEMS resonant d
 
 ### Conference
 -	<strong>Yuhao Xiao</strong>, Wen Chen, Jinzhao Han, Kewen Zhu, and Guoqiang Wu. A piezoelectric width-flexural mode MEMS resonator with high quality factor and low motional resistance. *2023 22nd International Conference on Solid-State Sensors, Actuators and Microsystems (Transducers)*, IEEE, 2023: 1825-1828.
--	Linhai Huang, Zhihong Feng, Yuhao Xiao, Fengpei Sun and Jinghui Xu. High-Q and low-motional impedance piezoelectric MEMS resonator through mechanical mode coupling. *2023 IEEE 36th International Conference on Micro Electro Mechanical Systems (MEMS)*, IEEE, 2023: 1159-1162.
+-	Linhai Huang, Zhihong Feng, <strong>Yuhao Xiao</strong>, Fengpei Sun and Jinghui Xu. High-Q and low-motional impedance piezoelectric MEMS resonator through mechanical mode coupling. *2023 IEEE 36th International Conference on Micro Electro Mechanical Systems (MEMS)*, IEEE, 2023: 1159-1162.
 
 ### Patents
 ---
