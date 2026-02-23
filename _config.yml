@@ -7,8 +7,8 @@
 
 # Site Settings
 baseURL: "https://www.yuhaoxiao.top/"
-title                    : "肖宇豪(XiaoYuhao)"
-description              : "MEMS resonator"
+title                    : "Yuhao Xiao | Homepage"
+description              : "MEMS & Microsystems Research"
 repository               : "tunnel-zz/tunnel-zz.github.io"
 google_scholar_stats_use_cdn : true
 
