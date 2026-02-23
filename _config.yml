@@ -7,7 +7,7 @@
 
 # Site Settings
 baseURL: "https://www.yuhaoxiao.top/"
-title                    : "Yuhao Xiao | Homepage"
+title                    : "Yuhao Xiao | "
 description              : "MEMS & Microsystems Research"
 repository               : "tunnel-zz/tunnel-zz.github.io"
 google_scholar_stats_use_cdn : true
