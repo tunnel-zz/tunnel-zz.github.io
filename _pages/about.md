@@ -19,7 +19,7 @@ redirect_from:
 
 I am currently working on high-performance MEMS/NEMS resonators, with research spanning design theory, microfabrication processes, and nonlinear dynamics. If you are interested in academic collaboration or research discussions, please feel free to contact me at <a href="mailto:xiaoyuhao@whu.edu.cn">xiaoyuhao@whu.edu.cn</a>.
 <br>
-I graduated from School of Power and Mechanical Engineering, Wuhan University (武汉大学机械与动力学院) with a bachelor's degree and from the Institute of Technological Sciences, Wuhan University (武汉大学工业科学研究院) with a PH.D degree, advised by <a href="https://ic.whu.edu.cn/info/1521/3291.htm">Wu Guoqiang (吴国强)</a>.
+I graduated from School of Power and Mechanical Engineering, Wuhan University (武汉大学机械与动力学院) with a bachelor's degree and from the Institute of Technological Sciences, Wuhan University (武汉大学工业科学研究院) with a PH.D. degree, advised by <a href="https://ic.whu.edu.cn/info/1521/3291.htm">Wu Guoqiang (吴国强)</a>.
 <br>
 My research interests include the design and fabrication of MEMS/NEMS resonant devices, as well as the fundamental dynamics and performance optimization of micro- and nano-scale mechanical systems.
  <a href='https://scholar.google.com/citations?user=rWf26_sAAAAJ&hl=en&oi=ao'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
@@ -31,7 +31,7 @@ My research interests include the design and fabrication of MEMS/NEMS resonant d
 
 # 🎓 Education
 - *2022.09 - 2025.06*, <a href="https://www.whu.edu.cn/"><img class="svg" src="/images/WHU_logo.svg" width="23pt"></a> Wuhan University, China, Ph.D. in Physical Electronics  
-- *2020.09 - 2022.09*, <a href="https://www.whu.edu.cn/"><img class="svg" src="/images/WHU_logo.svg" width="23pt"></a> Wuhan University, China, M.Eng. in Mechanical Engineering (part of a continuous academic project involves postgraduate and doctoral study)  
+- *2020.09 - 2022.09*, <a href="https://www.whu.edu.cn/"><img class="svg" src="/images/WHU_logo.svg" width="23pt"></a> Wuhan University, China, M.Eng. in Microelectronics and Solid-State Electronics (part of a continuous academic project involves postgraduate and doctoral study)  
 - *2016.09 - 2020.09*, <a href="https://www.whu.edu.cn/"><img class="svg" src="/images/WHU_logo.svg" width="23pt"></a> Wuhan University, China, B.Eng. in Mechanical Engineering  
 
 <span class='anchor' id='-lwzl'></span>
