@@ -40,6 +40,13 @@ My research interests include the design and fabrication of MEMS/NEMS resonant d
 
 ### Journal
 ---
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Microsyst. Nanoeng. 2026</div><img src='images/mine2026.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+-	<strong>Yuhao Xiao</strong>, Chengliang sun, Sheng liu and Guoqiang Wu. Exploring the synergic effect of thermal tuning and mode-coupling for frequency stabilization in micromechanical resonators. *Microsyst. Nanoeng.*, 2026. (JCR:Q1; IF:9.9)  
+</div>
+</div>
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">J. Microelectromech. Syst. 2025</div><img src='images/jmems2025.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
