@@ -21,7 +21,7 @@ I am currently working on high-performance MEMS/NEMS resonators, with research s
 <br>
 I graduated from School of Power and Mechanical Engineering, Wuhan University (武汉大学机械与动力学院) with a bachelor's degree and from the Institute of Technological Sciences, Wuhan University (武汉大学工业科学研究院) with a PH.D. degree, advised by <a href="https://ic.whu.edu.cn/info/1521/3291.htm">Wu Guoqiang (吴国强)</a>.
 <br>
-My research interests include the design and fabrication of MEMS/NEMS resonant devices, as well as the fundamental dynamics and performance optimization of micro- and nano-scale mechanical systems.
+My research interests include the design and fabrication of MEMS/NEMS resonant devices and their energy dissipation, temperature compensation, and nonlinear behavior.
  <a href='https://scholar.google.com/citations?user=rWf26_sAAAAJ&hl=en&oi=ao'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>.
 
   
