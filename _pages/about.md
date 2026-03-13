@@ -154,6 +154,6 @@ My research interests include the design and fabrication of MEMS/NEMS resonant d
 
 <span class='anchor' id='-gzsx'></span>
 
-# 💻 Work and Internships
+# 💻 Work Experience
 - *2025.12 - now*, Wuhan University, Post-doctoral fellow
 - *2025.7 - 2025.11*, Yangtze Memory Technologies Co., Ltd., TD PIE
