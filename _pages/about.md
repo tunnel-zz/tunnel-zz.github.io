@@ -87,6 +87,8 @@ My research interests include the design and fabrication of MEMS/NEMS resonant d
 
 </div>
 </div>
+
+- Zhaomin Hua#, <strong>Yuhao Xiao#</strong>, Longlong Li and Guoqiang Wu. <a href="https://doi.org/10.1016/j.mejo.2026.107270">Nonlinearity suppression in tuning fork MEMS resonators using curved beam geometry and engineered anchor boundaries</a>. <em>Microelectronics Journal</em>, 2026, 107270. (JCR:Q3; IF:2.3)
  
 -	Bowen Li#, <strong>Yuhao Xiao#</strong>, Longlong Li, Zhaomin Hua and Guoqiang Wu. <a href="https://doi.org/10.1109/JMEMS.2025.3571519">A high-performance mechanically coupled quadruple breathing mode ring resonator</a>. *J. Microelectromech. Syst.*, 2025, 34(4): 365-367. (JCR:Q2; IF:3.1) 
 
