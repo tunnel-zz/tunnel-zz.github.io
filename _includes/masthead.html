@@ -5,13 +5,13 @@
         <button><div class="navicon"></div></button>
         {% if page.lang == "zh" %}
           {% assign nav_links = site.data.navigation.zh %}
-          {% assign home_url = "/zh/#about-me" %}
+          {% assign home_url = "#about-me" %}
           {% assign home_title = "主页" %}
           {% assign switch_url = "/" %}
           {% assign switch_title = "English" %}
         {% else %}
           {% assign nav_links = site.data.navigation.main %}
-          {% assign home_url = "/#about-me" %}
+          {% assign home_url = "#about-me" %}
           {% assign home_title = "Homepage" %}
           {% assign switch_url = "/zh/" %}
           {% assign switch_title = "中文" %}
@@ -21,7 +21,7 @@
             <a href="{{ home_url }}" target="_self">{{ home_title }}</a>
           </li>
           {% for link in nav_links %}
-            <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
+            <li class="masthead__menu-item"><a href="{{ link.url }}" target="_self">{{ link.title }}</a></li>
           {% endfor %}
         </ul>
         <ul class="hidden-links hidden"></ul>
