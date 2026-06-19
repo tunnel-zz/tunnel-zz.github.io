@@ -19,6 +19,11 @@
       {% if site.description %}
         <li><div style="white-space: normal; margin-bottom: 1em;">{{ site.description }}</div></li>
       {% endif %}
+      {% if page.lang == "zh" %}
+        <li><a href="/"><i class="fas fa-fw fa-language" aria-hidden="true"></i> English</a></li>
+      {% else %}
+        <li><a href="/zh/"><i class="fas fa-fw fa-language" aria-hidden="true"></i> 中文</a></li>
+      {% endif %}
       {% if author.location %}
         <li><i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> {{ author.location }}</li>
       {% endif %}
