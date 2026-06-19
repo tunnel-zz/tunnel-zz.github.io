@@ -39,14 +39,14 @@ author_profile: true
 
 ### Journal
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Microsyst. Nanoeng. 2026</div><img src='images/mine2026.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Microsyst. Nanoeng. 2026</div><img src='/images/mine2026.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	<strong>Yuhao Xiao</strong>, Chengliang Sun, Sheng Liu and Guoqiang Wu. <a href="https://doi.org/10.1038/s41378-026-01210-7">Exploring the synergic effect of thermal tuning and mode-coupling for frequency stabilization in micromechanical resonators</a>. *Microsyst. Nanoeng.*, 2026, 12: 93. (JCR:Q1; IF:9.9)  
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">J. Microelectromech. Syst. 2025</div><img src='images/jmems2025.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">J. Microelectromech. Syst. 2025</div><img src='/images/jmems2025.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	<strong>Yuhao Xiao</strong>, Jinzhao Han, Bowen Li and Guoqiang Wu. <a href="https://doi.org/10.1109/JMEMS.2024.3524384">Turnover temperature point adjustment in mechanically coupled single-crystal silicon MEMS resonators</a>. *J. Microelectromech. Syst.*, 2025, 34(2): 134-143. (JCR:Q2; IF:3.1)  
@@ -54,7 +54,7 @@ author_profile: true
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sens. Actuators Phys. 2024</div><img src='images/sna2024.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Sens. Actuators Phys. 2024</div><img src='/images/sna2024.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	<strong>Yuhao Xiao</strong>, Kewen Zhu, Jinzhao Han, Fang Dong, Chengliang Sun, Sheng Liu and Guoqiang Wu. <a href="https://doi.org/10.1016/j.sna.2024.116019">An oven controlled piezoelectric MEMS dual-resonator platform with frequency stability of ±100 ppb over industrial temperature range</a>. *Sens. Actuators A, Phys.*, 2024, 380: 116019. (JCR:Q1; IF:4.9)  
@@ -62,7 +62,7 @@ author_profile: true
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Chip 2024</div><img src='images/chip2024.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Chip 2024</div><img src='/images/chip2024.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	<strong>Yuhao Xiao</strong>, Kewen Zhu, Jinzhao Han, Sheng Liu and Guoqiang Wu. <a href="https://doi.org/10.1016/j.chip.2024.100108">Q-enhancement of piezoelectric micro-oven-controlled MEMS resonators using honeycomb lattice phononic crystals</a>. *Chip*, 2024, 3(4): 100108. (JCR:Q1; IF:7.1)  
@@ -70,7 +70,7 @@ author_profile: true
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Electron Device Lett. 2023</div><img src='images/edl2023.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Electron Device Lett. 2023</div><img src='/images/edl2023.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	<strong>Yuhao Xiao</strong>, Jinzhao Han, Kewen Zhu and Guoqiang Wu. <a href="https://doi.org/10.1109/LED.2023.3285622">A micro-oven controlled dual-mode piezoelectric MEMS resonator with ±190 ppb stability over −40 to 105 °C temperature range</a>. *IEEE Electron Device Lett.*, 2023, 44(8): 1340-1343. (JCR:Q2; IF:4.5)  
@@ -79,7 +79,7 @@ author_profile: true
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Appl. Phys. Lett. 2023</div><img src='images/apl2023.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Appl. Phys. Lett. 2023</div><img src='/images/apl2023.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	<strong>Yuhao Xiao</strong>, Jinzhao Han, Kewen Zhu and Guoqiang Wu. <a href="https://doi.org/10.1063/5.0141778">A piezoelectric mechanically coupled Lamé mode resonator with ultra-high Q</a>. *Appl. Phys. Lett.*, 2023, 122 (11): 114101. (JCR:Q2; IF:3.6)  

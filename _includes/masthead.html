@@ -20,7 +20,6 @@
           <li class="masthead__menu-item masthead__menu-item--lg masthead__menu-home-item">
             <a href="{{ home_url }}" target="_self">{{ home_title }}</a>
           </li>
-          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ switch_url }}">{{ switch_title }}</a></li>
           {% for link in nav_links %}
             <li class="masthead__menu-item"><a href="{{ domain }}{{ link.url }}">{{ link.title }}</a></li>
           {% endfor %}
