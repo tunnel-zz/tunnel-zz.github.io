@@ -6,6 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
+url                      : "https://www.yuhaoxiao.top"
 baseURL: "https://www.yuhaoxiao.top/"
 title                    : "Yuhao Xiao | "
 description              : "MEMS"
@@ -23,7 +24,7 @@ baidu_site_verification  : codeva-XFgTSTgTG0 # get baidu_site_verification from 
 # Site Author
 author:
   name             : "肖宇豪(Xiao Yuhao)"
-  avatar           : "images/xiaoyuhao.png"
+  avatar           : "/images/xiaoyuhao.png"
   bio              : "Wuhan University"
   location         : 
   employer         : "Wuhan University"
