@@ -40,7 +40,10 @@ My research interests include the design and fabrication of MEMS/NEMS resonant d
 
 ### Journal
 ---
-- <strong>Yuhao Xiao</strong>, Longlong Li, Sheng Liu and Guoqiang Wu. <a href="xxx">Trade-off Between Quality Factor and Motional Resistance in TPoS Resonators Using Mechanically Coupled Architecture</a>. <em>IEEE Trans. Electron Devices</em>, 2026, xxx: xxx-xxx. (JCR:Q2; IF:3.2)
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE Trans. Electron Devices 2026</div><img src='/images/tedd2026.svg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+- <strong>Yuhao Xiao</strong>, Longlong Li, Sheng Liu and Guoqiang Wu. <a href="https://doi.org/10.1109/TED.2026.3723380">Tradeoff between quality factor and motional resistance in TPoS resonators using mechanically coupled architecture</a>. <em>IEEE Trans. Electron Devices</em>, 2026, xxx: xxx-xxx. (JCR:Q2; IF:3.2)
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Microsyst. Nanoeng. 2026</div><img src='images/mine2026.svg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
